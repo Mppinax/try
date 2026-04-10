@@ -1,9 +1,7 @@
-# PRUEBA
-##epico
+#documentacion proyecto 0
+##adan evangelion based
 balablbalbalbalbalalbalballablablbalbalbalbalablbalalba
-**olaoaloalaooa**
-*chaovaoaovaovoaa*
- 
+**olaoaloal
 
 
 [link](https://editor.p5js.org/maxxxxxxxxxxx/sketches/S6wTCaEVS)
